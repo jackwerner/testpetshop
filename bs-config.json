@@ -3,5 +3,5 @@
     "baseDir": ["./src", "./build/contracts"]
   },
   "open": false,
-  "files": ['*']
+  "files": [*]
 }
